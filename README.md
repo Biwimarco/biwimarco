@@ -3,7 +3,6 @@
 
   <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
 
-<p> Atualmente integro o time de suporte técnico na Krafti 👩‍💻 <br>
 Estou fazendo parte do programa Full Stack Web Developer by <a href="https://www.growdev.com.br" target="_blank" rel="noopener noreferrer">Growdev</a> 
 <br>
 Tenho grande paixão em carros, músicas e jogos 🖥️🕹️
